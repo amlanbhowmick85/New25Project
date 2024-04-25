@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/amlanbhowmick85/New25Project
   gitUsername: amlanbhowmick85
   gitBranch: main
+services:
+- serviceName: project.new25.integrations:FSEr25
+  packages:
+  - name: New25Project
+    version: "1.0"

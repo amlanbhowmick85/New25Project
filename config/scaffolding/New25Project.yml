@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: New25Project
+  gitServerName: NewAcc25
+  gitUrl: https://github.com/amlanbhowmick85/New25Project
+  gitUsername: amlanbhowmick85
+  gitBranch: main

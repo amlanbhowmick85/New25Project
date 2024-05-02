@@ -24,3 +24,7 @@ services:
   packages:
   - name: New25Project
     version: "1.0"
+- serviceName: project.new25.integrations:sdfsdf
+  packages:
+  - name: New25Project
+    version: "1.0"

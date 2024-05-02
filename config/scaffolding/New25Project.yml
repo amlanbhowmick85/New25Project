@@ -12,3 +12,11 @@ services:
   packages:
   - name: New25Project
     version: "1.0"
+- serviceName: project.new25.integrations:math
+  packages:
+  - name: New25Project
+    version: "1.0"
+- serviceName: pub.math:randomDouble
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.865
